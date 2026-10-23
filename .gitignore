@@ -4,3 +4,6 @@ __pycache__/
 data/raw/*.csv
 data/processed/investor_transactions_clean.csv
 data/processed/investor_transactions_removed_rows.csv
+
+*.db
+*.sqlite
