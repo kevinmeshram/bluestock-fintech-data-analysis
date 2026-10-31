@@ -1,0 +1,41 @@
+amfi_code,days,te_nifty50_pct,te_nifty100_pct,active_nifty50_pct,active_nifty100_pct,scheme_name,category,benchmark,score,score_rank
+148567,784,19.1868,18.7974,37.638,20.3338,Mirae Asset Large Cap Fund - Regular - Growth,Equity,NIFTY 100 TRI,85.8974,1.0
+120505,784,22.8447,23.2661,36.8535,19.5493,ICICI Pru Midcap Fund - Regular - Growth,Equity,NIFTY Midcap 150 TRI,81.7949,2.0
+120843,784,20.5067,20.654,34.6729,17.3688,Kotak Flexicap Fund - Regular - Growth,Equity,NIFTY 500 TRI,81.5385,3.0
+100033,784,22.8222,22.4976,37.1958,19.8917,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Equity,NIFTY Midcap 150 TRI,80.2564,4.0
+120504,784,18.8211,18.7299,36.5932,19.289,ICICI Pru Bluechip Fund - Direct - Growth,Equity,NIFTY 100 TRI,79.4872,5.0
+119094,784,23.8837,23.9774,39.3426,22.0385,Axis Midcap Fund - Regular - Growth,Equity,NIFTY Midcap 50 TRI,76.4103,6.0
+119551,784,19.3279,19.3583,35.0417,17.7376,SBI Bluechip Fund - Regular Plan - Growth,Equity,NIFTY 100 TRI,74.1667,7.0
+148569,784,22.1252,21.7062,34.6311,17.3269,Mirae Asset Tax Saver Fund - Regular - Growth,Equity,NIFTY 500 TRI,73.0128,8.0
+101206,784,19.0248,18.8911,34.0122,16.7081,ABSL Frontline Equity Fund - Regular - Growth,Equity,NIFTY 100 TRI,67.3718,9.0
+119598,784,28.1559,28.6689,34.468,17.1639,SBI Small Cap Fund - Regular Plan - Growth,Equity,BSE 250 SmallCap TRI,66.5385,10.0
+149323,784,21.5071,21.5227,32.867,15.5628,DSP Midcap Fund - Regular - Growth,Equity,NIFTY Midcap 150 TRI,65.8974,11.0
+149324,784,27.1768,27.9036,34.5686,17.2644,DSP Small Cap Fund - Regular - Growth,Equity,BSE 250 SmallCap TRI,65.8333,12.0
+118632,784,18.3428,19.0265,29.1009,11.7967,Nippon India Large Cap Fund - Regular - Growth,Equity,NIFTY 100 TRI,65.7051,13.0
+119552,784,18.9955,19.0878,23.9085,6.6043,SBI Bluechip Fund - Direct Plan - Growth,Equity,NIFTY 100 TRI,65.1282,14.0
+125497,784,19.6848,19.1564,25.8045,8.5003,HDFC Top 100 Fund - Direct Plan - Growth,Equity,NIFTY 100 TRI,58.2051,15.0
+118635,784,18.5067,17.9051,26.8457,9.5416,Nippon India ETF Nifty 50 BeES,Equity,NIFTY 50 TRI,57.9487,16.0
+118633,784,18.8656,19.2812,27.8637,10.5596,Nippon India Large Cap Fund - Direct - Growth,Equity,NIFTY 100 TRI,57.5,17.0
+102885,784,18.1746,17.9095,26.5459,9.2418,UTI Nifty 50 Index Fund - Regular - Growth,Equity,NIFTY 50 TRI,53.8462,18.0
+120503,784,18.9639,18.7232,21.955,4.6508,ICICI Pru Bluechip Fund - Regular - Growth,Equity,NIFTY 100 TRI,52.4359,19.0
+148568,784,20.3812,20.5609,22.9286,5.6245,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Equity,NIFTY Large Midcap 250 TRI,52.2436,20.0
+120506,784,19.987,19.6651,25.897,8.5928,ICICI Pru Value Discovery Fund - Regular - Growth,Equity,NIFTY 500 TRI,49.8718,21.0
+120507,784,12.8574,12.7924,15.3017,-2.0025,ICICI Pru Liquid Fund - Regular - Growth,Debt,CRISIL Liquid Fund AI Index,46.6667,22.0
+119093,784,19.2914,18.6872,27.6689,10.3647,Axis Bluechip Fund - Direct - Growth,Equity,NIFTY 100 TRI,46.2821,23.0
+102887,784,20.1895,20.1778,31.6822,14.3781,UTI Flexi Cap Fund - Regular - Growth,Equity,NIFTY 500 TRI,44.8077,24.0
+149322,784,19.0573,19.3719,25.4428,8.1386,DSP Top 100 Equity Fund - Regular - Growth,Equity,NIFTY 100 TRI,42.5,25.0
+125498,784,22.4921,22.291,20.384,3.0799,HDFC Mid-Cap Opportunities Fund - Direct - Growth,Equity,NIFTY Midcap 150 TRI,40.641,26.0
+120844,784,12.8373,12.8095,14.6726,-2.6316,Kotak Liquid Fund - Regular - Growth,Debt,CRISIL Liquid Fund AI Index,39.6154,27.0
+120841,784,17.557,17.7728,24.6042,7.3,Kotak Bluechip Fund - Regular - Growth,Equity,NIFTY 100 TRI,37.8205,28.0
+118634,784,29.0414,27.5312,19.0884,1.7842,Nippon India Small Cap Fund - Regular - Growth,Equity,BSE 250 SmallCap TRI,36.7308,29.0
+118636,784,13.626,13.5637,12.3445,-4.9597,Nippon India Gilt Securities Fund - Regular - Growth,Debt,CRISIL Dynamic Gilt Index,32.9487,30.0
+119120,784,13.3801,13.3312,13.9728,-3.3313,SBI Magnum Gilt Fund - Regular Plan - Growth,Debt,CRISIL Dynamic Gilt Index,32.0513,31.0
+101208,784,12.8389,12.7721,14.3282,-2.9759,ABSL Liquid Fund - Regular - Growth,Debt,CRISIL Liquid Fund AI Index,31.1538,32.0
+100025,784,13.5204,13.3673,12.2013,-5.1029,HDFC Short Term Debt Fund - Regular - Growth,Debt,CRISIL Short Term Bond Index,30.1282,33.0
+120842,784,21.7838,22.0454,17.19,-0.1142,Kotak Emerging Equity Fund - Regular - Growth,Equity,NIFTY Midcap 150 TRI,25.7692,34.0
+119599,784,27.5351,27.2098,10.128,-7.1762,SBI Small Cap Fund - Direct Plan - Growth,Equity,BSE 250 SmallCap TRI,21.9872,35.0
+119092,784,19.2282,18.5936,9.9075,-7.3967,Axis Bluechip Fund - Regular - Growth,Equity,NIFTY 100 TRI,20.3205,36.0
+101207,784,28.9987,29.3098,7.5852,-9.7189,ABSL Small Cap Fund - Regular - Growth,Equity,BSE 250 SmallCap TRI,20.0641,37.0
+119095,784,28.1588,28.3517,-0.443,-17.7472,Axis Small Cap Fund - Regular - Growth,Equity,BSE 250 SmallCap TRI,15.1282,38.0
+100016,784,19.4617,19.5404,10.686,-6.6182,HDFC Top 100 Fund - Regular Plan - Growth,Equity,NIFTY 100 TRI,12.1795,39.0
+102886,784,22.3602,22.3428,9.2532,-8.0509,UTI Mid Cap Fund - Regular - Growth,Equity,NIFTY Midcap 150 TRI,12.1154,40.0
